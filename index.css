@@ -1,0 +1,73 @@
+body{
+     margin:0%;
+     
+
+    }
+
+#port{
+    margin-top: 3%;
+    margin-left: 2%;
+    }
+#name{
+     margin-top:13%;
+     margin-left:25%;
+     display:flex;
+    }
+#head{
+    width: 40%;
+    }
+.one{
+     font-family:cursive;
+     line-height:0.8;
+     }
+#para1{
+      line-height:1.7;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+     }
+#image{
+    margin-left: 20%;
+    border-radius:60%;
+    width:45vh;
+    height:40vh;
+    }   
+#sec2{
+     margin-left:20%; 
+     display:flex;
+     margin-top:8%;
+     }
+#work{
+    width:40%;
+    } 
+.ip{ 
+      font-size:0.8em;
+      padding:6% 30%;
+      line-height:40%;
+      border: 1px solid black;
+     }
+#inpt{
+    margin-top:3%;
+    margin-left:20%;
+    }
+#but{
+    font-size:1em;
+    background-color: black;
+    color: azure;
+    border-radius:9%;
+    }
+#con{
+    margin-top:12%;
+    margin-left:20%;
+    }
+#get{
+    margin-top:12%;
+    margin-left:20%;
+    }   
+#icon{ 
+       margin-left:30%;
+       font-size:3vh;
+       letter-spacing:2vh;  
+       
+      }
+i{
+     color: black;
+}
